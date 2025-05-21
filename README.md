@@ -27,7 +27,4 @@
 [![My Skills](https://skillicons.dev/icons?i=django,tailwind,react,nodejs)](https://skillicons.dev)
 <br>
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres)](https://skillicons.dev)
-
-
-    
 </div>

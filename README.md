@@ -19,24 +19,15 @@
 
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python" title="Python"/>
-    <img src="https://skillicons.dev/icons?i=html" title="HTML"/>
-    <img src="https://skillicons.dev/icons?i=postgres" title="Postgres"/>
-    <img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
-    <img src="https://skillicons.dev/icons?i=vscode" title="VScode"/>
-    <img src="https://skillicons.dev/icons?i=linux" title="linux"/>
-    <br>
-    <img src="https://skillicons.dev/icons?i=fastapi" title="FastApi"/>
-    <img src="https://skillicons.dev/icons?i=css" title="CSS"/>
-    <img src="https://skillicons.dev/icons?i=github" title="github"/>
-    <img src="https://skillicons.dev/icons?i=sublime" title="Sublime Text"/>
-    <img src="https://skillicons.dev/icons?i=postman" title="Postman"/>
-    <img src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu"/>
-    <br>
-    <img src="https://skillicons.dev/icons?i=django" title="Django"/>
-    <img src="https://skillicons.dev/icons?i=bootstrap" title="bootstrap"/>
-    <img src="https://skillicons.dev/icons?i=selenium" title="Selenium"/>
-    <img src="https://skillicons.dev/icons?i=git" title="git"/>
-    <img src="https://skillicons.dev/icons?i=pycharm" title="PyCharm"/>
-    <br>
+    
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,vscode)](https://skillicons.dev)
+<br>
+[![My Skills](https://skillicons.dev/icons?i=figma,ps,pr,git,github)](https://skillicons.dev)
+<br>
+[![My Skills](https://skillicons.dev/icons?i=django,tailwind,react,nodejs)](https://skillicons.dev)
+<br>
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres)](https://skillicons.dev)
+
+
+    
 </div>

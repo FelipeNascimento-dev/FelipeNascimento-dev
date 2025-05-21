@@ -13,6 +13,30 @@
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white&style=social)](https://api.whatsapp.com/send/?phone=5511951018967&text&type=phone_number&app_absent=0)
   [![Gmail Badge](https://img.shields.io/badge/-Email_(felipe.nasci.dev@gmail.com)-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igor77876@gmail.com)](mailto:felipe.nasci.dev@gmail.com)
   [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-santos-b0b815247/)](https://www.linkedin.com/in/felipe-silva-nascimento/)
+</div>
 
-  
+## ⚒️ Linguagens e Ferramentas ⚒️
+
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python" title="Python"/>
+    <img src="https://skillicons.dev/icons?i=html" title="HTML"/>
+    <img src="https://skillicons.dev/icons?i=postgres" title="Postgres"/>
+    <img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
+    <img src="https://skillicons.dev/icons?i=vscode" title="VScode"/>
+    <img src="https://skillicons.dev/icons?i=linux" title="linux"/>
+    <br>
+    <img src="https://skillicons.dev/icons?i=fastapi" title="FastApi"/>
+    <img src="https://skillicons.dev/icons?i=css" title="CSS"/>
+    <img src="https://skillicons.dev/icons?i=github" title="github"/>
+    <img src="https://skillicons.dev/icons?i=sublime" title="Sublime Text"/>
+    <img src="https://skillicons.dev/icons?i=postman" title="Postman"/>
+    <img src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu"/>
+    <br>
+    <img src="https://skillicons.dev/icons?i=django" title="Django"/>
+    <img src="https://skillicons.dev/icons?i=bootstrap" title="bootstrap"/>
+    <img src="https://skillicons.dev/icons?i=selenium" title="Selenium"/>
+    <img src="https://skillicons.dev/icons?i=git" title="git"/>
+    <img src="https://skillicons.dev/icons?i=pycharm" title="PyCharm"/>
+    <br>
 </div>

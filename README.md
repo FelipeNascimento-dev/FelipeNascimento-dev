@@ -28,3 +28,8 @@
 <br>
 [![My Skills](https://skillicons.dev/icons?i=mongodb,postgres)](https://skillicons.dev)
 </div>
+
+
+[![iuricode](https://github-readme-stats.vercel.app/api?username=iuricode&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=merko)](<[https://github.com/iuricode/](https://github.com/anuraghazra/github-readme-stats)>)

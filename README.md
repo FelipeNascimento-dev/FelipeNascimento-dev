@@ -2,6 +2,17 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Hi+there+%F0%9F%91%8B;Eu+sou+o+Felipe!" alt="Typing SVG" />
 </h1>
 
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=FelipeNascimento-dev&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=midnight-purple" alt="GitHub Stats" height="180">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeNascimento-dev&layout=compact&langs_count=8&theme=midnight-purple" alt="Top Langs" height="180">
+    </td>
+  </tr>
+</table>
+
 <div align="center">
     
 💻 Eu sou um desenvolvedor Front-End | UI developer

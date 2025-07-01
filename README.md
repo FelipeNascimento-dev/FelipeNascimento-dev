@@ -15,7 +15,7 @@
 
 <div align="center">
     
-💻 Eu sou um desenvolvedor Front-End | UI developer
+💻 Eu sou um desenvolvedor FullStack Junior | UI developer
 
 💬 Entre em contato comigo por aqui:
 

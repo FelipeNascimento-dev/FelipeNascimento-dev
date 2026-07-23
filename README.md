@@ -65,7 +65,7 @@ Atualmente foco em:
 | Projeto | Descrição | Links |
 | :--- | :--- | :--- |
 | **Arena VB** | Site institucional / arena esportiva | [Repo](https://github.com/FelipeNascimento-dev/ArenaVB) · [Demo](https://arenavb.netlify.app) |
-| **InkNation** | Plataforma para estúdios e tatuadores | [Repo](https://github.com/FelipeNascimento-dev/InkNation) |
+| **C-Trends** | Site institucional | [Demo](https://c-trends.com.br/) |
 | **VB Informática** | Site de assistência técnica | [Repo](https://github.com/FelipeNascimento-dev/VB-Informatica) · [Demo](https://assistencia-vb-informatica.netlify.app) |
 | **Compor do Brasil** | Site institucional | [Demo](https://compordobrasil.com.br/) |
 

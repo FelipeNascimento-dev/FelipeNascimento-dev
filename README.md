@@ -1,41 +1,75 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Hi+there+%F0%9F%91%8B;Eu+sou+o+Felipe!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Felipe!;Full+Stack+Developer" alt="Typing SVG" />
 </h1>
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=FelipeNascimento-dev&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=merko" alt="GitHub Stats" height="180">
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeNascimento-dev&layout=compact&langs_count=8&theme=merko" alt="Top Langs" height="180">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  Desenvolvedor Full Stack · São Paulo, BR<br/>
+  Python · Django · FastAPI · React · PostgreSQL
+</p>
 
-<div align="center">
-    
-💻 Eu sou um desenvolvedor FullStack Junior | UI developer
+<p align="center">
+  <a href="https://felipenascimento.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/felipe-silva-nascimento/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:felipe.nasci.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://api.whatsapp.com/send/?phone=5511951018967" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</p>
 
-💬 Entre em contato comigo por aqui:
+---
 
-<div align="center"> 
-  
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white&style=social)](https://api.whatsapp.com/send/?phone=5511951018967&text&type=phone_number&app_absent=0)
-  [![Gmail Badge](https://img.shields.io/badge/-Email_(felipe.nasci.dev@gmail.com)-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igor77876@gmail.com)](mailto:felipe.nasci.dev@gmail.com)
-  [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-santos-b0b815247/)](https://www.linkedin.com/in/felipe-silva-nascimento/)
-</div>
+### Sobre mim
 
-## ⚒️ Linguagens e Ferramentas ⚒️
+Estudante de **Ciência da Computação** na UNICID e desenvolvedor Full Stack na **C-Trends BPO**.
 
-<br/>
-<div align="center">
-    
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,vscode)](https://skillicons.dev)
-<br>
-[![My Skills](https://skillicons.dev/icons?i=figma,ps,pr,git,github)](https://skillicons.dev)
-<br>
-[![My Skills](https://skillicons.dev/icons?i=django,tailwind,react,nodejs)](https://skillicons.dev)
-<br>
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres)](https://skillicons.dev)
-</div>
+Trabalho com aplicações web modernas, APIs e interfaces responsivas — unindo backend sólido em Python com frontend centrado na experiência do usuário.
+
+Atualmente foco em:
+- APIs REST com **Django** e **FastAPI**
+- Interfaces com **React**, HTML e CSS
+- Banco de dados com **PostgreSQL**
+- Automação e deploy com **Git**, **GitHub Actions** e **Docker**
+
+---
+
+### Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,react,html,css,tailwind" alt="Frontend & Backend" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,git,github,vscode,figma" alt="Dados & Ferramentas" />
+</p>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=FelipeNascimento-dev&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=merko&hide_border=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeNascimento-dev&layout=compact&langs_count=8&theme=merko&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### Projetos em destaque
+
+| Projeto | Descrição | Links |
+| :--- | :--- | :--- |
+| **Arena VB** | Site institucional / arena esportiva | [Repo](https://github.com/FelipeNascimento-dev/ArenaVB) · [Demo](https://arenavb.netlify.app) |
+| **InkNation** | Plataforma para estúdios e tatuadores | [Repo](https://github.com/FelipeNascimento-dev/InkNation) |
+| **VB Informática** | Site de assistência técnica | [Repo](https://github.com/FelipeNascimento-dev/VB-Informatica) · [Demo](https://assistencia-vb-informatica.netlify.app) |
+| **Compor do Brasil** | Site institucional | [Demo](https://compordobrasil.com.br/) |
+
+Mais projetos no [portfólio](https://felipenascimento.netlify.app).
+
+---
+
+<p align="center">
+  <i>Aberto a oportunidades e colaborações — vamos conversar!</i>
+</p>

@@ -51,8 +51,11 @@ Atualmente foco em:
 ### GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=FelipeNascimento-dev&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=merko&hide_border=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeNascimento-dev&layout=compact&langs_count=8&theme=merko&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=FelipeNascimento-dev&theme=merko&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FelipeNascimento-dev&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
 </p>
 
 ---

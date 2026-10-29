@@ -68,6 +68,7 @@ Atualmente foco em:
 | **C-Trends** | Site institucional | [Demo](https://c-trends.com.br/) |
 | **VB Informática** | Site de assistência técnica | [Repo](https://github.com/FelipeNascimento-dev/VB-Informatica) · [Demo](https://assistencia-vb-informatica.netlify.app) |
 | **Compor do Brasil** | Site institucional | [Demo](https://compordobrasil.com.br/) |
+| **Arancia** | Site institucional | [Demo](https://arancia.com.br/) |
 
 Mais projetos no [portfólio](https://felipenascimento.netlify.app).
 

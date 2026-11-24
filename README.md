@@ -26,7 +26,7 @@
 
 ### Sobre mim
 
-Estudante de **Ciência da Computação** na UNICID e desenvolvedor Full Stack na **C-Trends BPO**.
+Estudante de **Ciência da Computação** na UNICID e desenvolvedor Full Stack na **Stalse Analytics**.
 
 Trabalho com aplicações web modernas, APIs e interfaces responsivas — unindo backend sólido em Python com frontend centrado na experiência do usuário.
 
